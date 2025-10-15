@@ -198,11 +198,6 @@ cd frontend
 npm run dev
 ```
 
-**Docker:**
-```bash
-docker-compose up
-```
-
 ### API Documentation
 - Swagger UI: http://localhost:8000/docs
 - ReDoc: http://localhost:8000/redoc
