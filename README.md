@@ -1,4 +1,4 @@
-# Refyn
+# refyn
 
 Code review platform that analyzes your code and provides feedback on readability, bugs, and best practices.
 
